@@ -1,0 +1,12 @@
+10000001=
+{
+	name="Lamb Kebab"
+	culture="uyghur"
+	religion="manichean"
+}
+10000002=
+{
+	name="Fxxkit"
+	culture="fxxkup"
+	religion="manichean"
+}

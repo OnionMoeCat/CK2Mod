@@ -1,0 +1,15 @@
+20000002 = {
+	name="Goober"
+	dynasty=10000002 # Lamb Kebab
+	religion="ramenism"
+	culture="fxxkup"
+	750.1.1={
+		birth=yes
+	}
+	760.1.1={
+		employer = 188785 # Khagan of Uyghur
+	}
+	800.1.1={
+		death=yes
+	}
+}
